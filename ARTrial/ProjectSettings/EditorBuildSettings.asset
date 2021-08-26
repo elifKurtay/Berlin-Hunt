@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/ImageTracker.unity
+    guid: fae633e936ba037438eed307f4eb1dbb
+  - enabled: 0
+    path: Assets/Scenes/ReferencePoint.unity
+    guid: 6bb672c0d8034524a971e750d873de10
+  - enabled: 0
+    path: Assets/Scenes/PlaneTracker.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/MainScreen.unity
+    guid: 2ae5cd4c14c4e5a40a6c0c66e6c2d94b
+  - enabled: 1
+    path: Assets/Scenes/AR+GPS.unity
+    guid: 8ee192f0eac08874e96a29978ee2d0b0
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: bda13d12e1a6a114f8a227f12344ac42, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: c5bda13dcfd20c24c95f4ae24d40c05c, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 118a1a03ed42f4c45a143a8bac36876e, type: 2}

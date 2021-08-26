@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5188620892386517962
+  m_GuidHigh: 5230591467077611138
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5035424765658987710
+      m_GuidHigh: 11308395826403239071
+    m_SerializedTextureGuid:
+      m_GuidLow: 8711238553440868905
+      m_GuidHigh: 302964663697959226
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: spider
+    m_Texture: {fileID: 2800000, guid: 6b87da29894f78e43a6936a7c1583404, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4958495085219868774
+      m_GuidHigh: 4769419788396121998
+    m_SerializedTextureGuid:
+      m_GuidLow: 12480795022093285836
+      m_GuidHigh: 3325682500527236376
+    m_Size: {x: 0.1, y: 0.11018518}
+    m_SpecifySize: 1
+    m_Name: teacup
+    m_Texture: {fileID: 2800000, guid: 4e5579ccb0f2ad3418a5a82f9d32272e, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5365981456799436232
+      m_GuidHigh: 16038016333600608912
+    m_SerializedTextureGuid:
+      m_GuidLow: 2748452494434759031
+      m_GuidHigh: 10062193062903692536
+    m_Size: {x: 0.1, y: 0.121203706}
+    m_SpecifySize: 1
+    m_Name: tv
+    m_Texture: {fileID: 2800000, guid: 54d1f17776fb2624f83cc6674717a48b, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5734803508529493437
+      m_GuidHigh: 7628232377386333580
+    m_SerializedTextureGuid:
+      m_GuidLow: 10071195422998045862
+      m_GuidHigh: 6872349581789866360
+    m_Size: {x: 0.16, y: 0.14389999}
+    m_SpecifySize: 1
+    m_Name: MusicBox
+    m_Texture: {fileID: 2800000, guid: b356a4a612e08bc478a9e38a887d5f5f, type: 3}
